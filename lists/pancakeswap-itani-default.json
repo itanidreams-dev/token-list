@@ -1,0 +1,33 @@
+{
+  "name": "PancakeSwap iTani Network Default",
+  "timestamp": "2026-03-04T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/itanidreams-dev/iTani-Network-Chain/main/public/assets/chains/1229800785/logo.png",
+  "keywords": [
+    "pancakeswap",
+    "itani",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "iTani",
+      "symbol": "ITANI",
+      "address": "0xF47463D3A05f67742579066aB8850b5c4ec9db98",
+      "chainId": 1229800785,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/itanidreams-dev/iTani-Network-Chain/main/public/assets/chains/1229800785/logo.png"
+    },
+    {
+      "name": "Wrapped iTani",
+      "symbol": "WITANI",
+      "address": "0xF47463D3A05f67742579066aB8850b5c4ec9db98",
+      "chainId": 1229800785,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/itanidreams-dev/iTani-Network-Chain/main/public/assets/chains/1229800785/logo.png"
+    }
+  ]
+}
